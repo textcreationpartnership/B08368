@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anatomie of the inward parts o[f man] lively set forth and diligently, declaring the principall v[eins] the use of letting bloud; very necessary for physicians a[nd chy]rurgians, and all other that desire to know themse[lves].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08368</idno>
+            <idno type="STC">Wing A3060A</idno>
+            <idno type="STC">ESTC R172296</idno>
+            <idno type="EEBO-CITATION">69648491</idno>
+            <idno type="OCLC">ocm 69648491</idno>
+            <idno type="VID">184829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08368)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184829)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2872:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The anatomie of the inward parts o[f man] lively set forth and diligently, declaring the principall v[eins] the use of letting bloud; very necessary for physicians a[nd chy]rurgians, and all other that desire to know themse[lves].</title>
+               </titleStmt>
+               <extent>[3] leaves, [1] folded leaf : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Stent at the VVhite Horse in Gilt-Spur-Street without Newgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: pages torn with some loss of print.</note>
+                  <note>Comprised of an illustrated folded leaf with movable flaps and accompanying keys ; each key as well as the illustrated leaf have separate caption titles.</note>
+                  <note>Reproduction of original in: Library Company of Philadelphia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Human anatomy --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="key_to_anatomical_diagram">
+            <pb facs="tcp:184829:1"/>
+            <head>The Anatomie of the inward parts o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lively ſet forth, and diligently, declaring the principall V<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the uſe of letting Bloud: very neceſſary for Phyſicians a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rurgians, and all other that deſire to know Themſe<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+            </head>
+            <head type="sub">The ſignification of ſuch Letters as are placed in the Figure.</head>
+            <p>
+               <hi>A</hi> SIgnifieth the gullet of the throat, called alſo the throatbole, in Latin <hi>Gurgulio,</hi> and <hi>Canna pul<g ref="char:EOLhyphen"/>monis,</hi> that is to ſay, the Lung-pipe and Weſ<g ref="char:EOLhyphen"/>on pertaining to the lights and the heart conveying ayre to them both, and it divideth it ſelf into many hollow pipes within the Lungs, as ye ſee,</p>
+            <p>
+               <hi>B</hi> Signifieth the Lungs or Lights, called in Latin <hi>pul<g ref="char:EOLhyphen"/>mo,</hi> and it is called the bellows of the body, for it draw<g ref="char:EOLhyphen"/>eth and ſendeth forth again the ayre, with the which the heart and other members are tempered: wherefore the Lungs be full of hollowneſſe, even like a ſpunge, and empty, opening itſelf to the receiving of ayre, and ga<g ref="char:EOLhyphen"/>thering itſelf together to expell it again, as doth a pair of bellows, faſhioned much after the ſhape of an Oxe hoof.</p>
+            <p>
+               <hi>C.</hi> Signifieth the Heart called in Latin <hi>Cor,</hi> the ſeat of life, the ruler and directer of the ſpirit and bloud. It ap<g ref="char:EOLhyphen"/>peareth within againſt the left breaſt, it is figured round, tending to ſharpneſſe at one of his ends, the which is to<g ref="char:EOLhyphen"/>wards the breaſt: it is of all other members the principall, and is called the Sun of the leſs world: For man among Philoſophers is called the leſs world, and the heart being in it, is to all the body as the Sun is to all this great uni<g ref="char:EOLhyphen"/>verſall world, which approaching neer unto us, all things rejoyce, herbs bring forth flowers, trees ſpread their branches, all fowls, fiſh, and beaſts, receive great com<g ref="char:EOLhyphen"/>fort <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the heart in man being heavy and penſive, all the b<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſad and ill diſpoſed: The heart again be<g ref="char:EOLhyphen"/>ing glad <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> merry, all the body is light and luſty, for it illuminat<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and lightneth all other members with his ſpirit. It <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he firſt member in man that receiveth life, and the la<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat dyeth. Only this part in man is never griev<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>bly with any diſeaſe, but if it be, forthwith it dyeth and all the man with him.</p>
+            <p>
+               <hi>D.</hi> Signifieth the Middriffe, called <hi>Diaphragma, Sep<g ref="char:EOLhyphen"/>tum tranſverſum,</hi> and <hi>Praecordia,</hi> and it is a thin skin which divideth the upper part of the body from the ne<g ref="char:EOLhyphen"/>ther part, that is to ſay, the Heart and Lungs from the Spleen and Liver, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>E.</hi> Signifieth the throat-pipe, called in Latin <hi>Gula,</hi> and <hi>Interior Colli fiſtula,</hi> that is to wit, the inner pipe or cunduit of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he neck, the which cometh from the neck <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ck, and thorough it is conveyed the meat and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by the mouth is ſent into the ſtomack. And <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>pe doth appear above the ſhoulders, where alſo the throat-bole is ſeen, there it is called the throat, and the outward pipe of the neck, And this part of the ſame pipe ſhewing it ſelf in the bulk of the body, is cal<g ref="char:EOLhyphen"/>led the inward part of the neck-pipe and throat-pipe.</p>
+            <p>
+               <hi>F.</hi> Signifieth the upper part of the mouth of the ſto<g ref="char:EOLhyphen"/>mack, called in Latin, <hi>Os ſtomachi.</hi>
+            </p>
+            <p>
+               <hi>G.</hi> Signifieth the ſtomack, called in Latin <hi>Stomachus,</hi> the receptacle of meat and drink, a place deviſed of na<g ref="char:EOLhyphen"/>ture to concoct and digeſt food, as a furnace wherein meat is ſodden; and it is offended with many and ſundry diſeaſes.</p>
+            <p>
+               <hi>H.</hi> Signifieth the bottome of the ſtomack, the (meat being in the ſtomack, undigeſted) is very and the ſame being once decoct and digeſted, it <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it ſelf again.</p>
+            <p>
+               <hi>I.</hi> Signifieth the nether mouth of the ſtomack <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> iſſue of the ſame called in Greek <hi>pylorus,</hi> and co<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly in Latin <hi>Protonarius,</hi> the way by which the m<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> digeſted, paſſeth down to the guts.</p>
+            <p>
+               <hi>K.</hi> Signifieth the Liver, called in Latin <hi>Hepar <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cur,</hi> this is the place where the juyce coming of n<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>geſted in the ſtomack is tranſmuted and alter<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bloud: but that part of this juyce, which is no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> converted to bloud, is altered part to flegme, p<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ler, and part to melancholy.</p>
+            <p>
+               <hi>L.</hi> Signifieth the Gall, called in Latin <hi>Fel:</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> receiveth the refuſe and dregs of the bloud, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>veth chiefly to the laps of the Liver.</p>
+            <p>
+               <hi>M.</hi> Signifieth a certain vein, called in Latin, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <hi>Manus jecoris,</hi> that is, the hand of the L<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> vein receiveth the digeſted juyce, by divers, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſtomack and other bowels, and ſendeth <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>choly part into the Spleen.</p>
+            <p>
+               <hi>N.</hi> Signifieth the Spleen, called in Latin <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lien,</hi> which is the receptacle and ſink of mel<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>O.</hi> Signifieth a vein, which in Latin is called <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <hi>Vena jecoraria,</hi> the hollow vein, the vein <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for by this Vein the bloud ingendred in t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> miniſtred to all parts of the body, to nouriſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therewith.</p>
+            <p>
+               <hi>P.</hi> Signifieth the Kidneys, called in Lat<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> faſtened to both ſides of the body near to the L<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the right Kidney ſtandeth ſomewhat highe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> left; by thoſe the watry part of the bloud <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> drawn, deſcendeth thorough certain other v<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſee in the bladder.</p>
+            <p>
+               <hi>Q.</hi> Signifieth the bladder, in Latin <hi>Veſica,</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and receiver of urine.</p>
+            <p>
+               <hi>R.</hi> Signifieth the Stones, called in Latin <hi>Teſ<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> this is the place where ſeed is ingendred.</p>
+            <p>
+               <hi>S.</hi> Signifieth the Cods, called in Latin <hi>Scr<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>T.</hi> Signifieth the privy part of man, call<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nis,</hi> in whom be two notable waies or iſſu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one is the urine iſſue, the other is called th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>V.</hi> Signifieth the ſmal guts called in Latin <hi>Il<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> is ingendred the cruell pain, called the gnawin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the belly.</p>
+            <p>
+               <hi>X.</hi> Signifieth the groſſer and greater part <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in Latin called <hi>Colon,</hi> in whom the excrements <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long withholden, receiveth a certain form <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> after the place. This part many times is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the collick.</p>
+            <p>
+               <hi>Y.</hi> Signifieth the latter end of all <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which immediately the ordure is expell<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Fundament. This place many times i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> diſeaſe called the Piles or Emeroids, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Latin is named <hi>Longanon.</hi>
+            </p>
+         </div>
+         <div type="key_to_anatomical_diagram">
+            <pb facs="tcp:184829:2"/>
+            <pb facs="tcp:184829:3"/>
+            <head>A Declaration of the Letters, ſignifying the principall veins to let blood</head>
+            <p>THe Veins of the forehead and the temples, do ſpring and grow of the exteriour throat-veins, like branches, the which muſt be opened, drawing the Launcer overthwart the vein. I call it let<g ref="char:EOLhyphen"/>ting overthwart the vein (according to antient Doctors) the which is not fully along the vein, nor fully over<g ref="char:EOLhyphen"/>thwart the vein, but keepeth a mean between both: and the letting bloud of this vein is good for apoſtems in the eyes, and the Megram, and for great head-ach, and for alteration of the wit, for Frenſie, and for the new leper.</p>
+            <p>
+               <hi>B.</hi> The veins of the neck (that commonly are called the veins <hi>Guiden,</hi> or <hi>Jugulare exteriores</hi>) muſt be opened overthwart the vein, letting the Launcer decline a little along the vein, but not too much; or elſe it ſhould be hard to ſtanch the bloud. And he that ſhall open this vein well, muſt cauſe the Patient to bow his head from that ſide where he will open the vein, that it may be bent. And this vein muſt be opened (as ſaith <hi>Avicen</hi>) with a Launcer <hi>(cum pilo)</hi> that is to ſay, that hath a pin over<g ref="char:EOLhyphen"/>thwart about the end of the Launcer, to keep it from go<g ref="char:EOLhyphen"/>ing to deep in the vein: And the letting bloud of theſe veins is good for the humours of the head, for the Rheume, and the Megram. And it is to be noted, that all the veins of the head ought to be left after a man hath eaten; neither ought theſe veins to be let in thoſe, in whom is required the power to ingender. For (as ſaith <hi>Avicen</hi>) through theſe veins are voided the ſpirits that nature doth ſend forth for generation.</p>
+            <p>
+               <hi>C.</hi> The Vein on the outſide of the arm, the which the new practiſers commonly do call <hi>Cephalica,</hi> and <hi>Galen, Vena externa</hi> and alſo <hi>Humeraelis,</hi> taketh his originall with the <hi>Guiden</hi> or <hi>Jugulares exteriores,</hi> from the hol<g ref="char:EOLhyphen"/>low veins. And this vein <hi>Cephalica</hi> muſt be opened with a greater hole than the other <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eins, or elſe (as ſaith <hi>Haly abbas,</hi> the antient Phyſit<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in the fourth book of his practiſe) the foreſaid vein <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ous to fall to an apoſtumation. And great heed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be take<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for failing in opening this vein, for it is <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rdous to let. For if you dare not touch this vein <hi>C<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ike,</hi> and fear to open it as ſome Barbers and Chyrurgeans that be not well expert, do, ye ſhall do great harr to the Patient, and cauſe danger of apoſtumation. Alwaies if ye touch this vein well at the firſt lancing, it is the ſame that of all veins doth grieve leaſt in letting of bloud: howbeit how<g ref="char:EOLhyphen"/>ſoever ye do, make the hole meetly great. The opening of this vein is good for running of the eyes, and all man<g ref="char:EOLhyphen"/>ner of head-ach, and for the falling ſickneſs.</p>
+            <p>
+               <hi>D.</hi> The vein that appeareth in the middle of the arm, before the bowing of it, or after the bowing, the which commonly is called the <hi>Median</hi> or <hi>Mediana,</hi> or <hi>Nigra,</hi> after <hi>Avicen,</hi> or after <hi>Haly abbas Mediaſtina,</hi> and after <hi>Rhaſis</hi> and <hi>Almanſor</hi> it is called <hi>Vena matrix,</hi> or <hi>Car<g ref="char:EOLhyphen"/>diaca;</hi> and hath his originall or ſpring, partly of the <hi>Ce<g ref="char:EOLhyphen"/>phalica,</hi> and partly of the <hi>Baſilica,</hi> the which muſt be o<g ref="char:EOLhyphen"/>pened overthwart the vein; or at the leaſt declining the Launcer a little awry, except one will let twice; and the letting bloud in this vein, is good for all griefs and diſ<g ref="char:EOLhyphen"/>eaſes of the members, ſtomack, ribs and ſides, for it is the fountain of all the body.</p>
+            <p>
+               <hi>E.</hi> The Vein that is common called <hi>Baſilica,</hi> and after <hi>Galen, Vena interna,</hi> ſometimes it is called <hi>Jecor<g ref="char:EOLhyphen"/>ria,</hi> others do call it <hi>Hepatica,</hi> or <hi>Regia. Rhaſis,</hi> becauſe it doth go thorough the armholes, doth call it <hi>Vena axil<g ref="char:EOLhyphen"/>laris:</hi> and it doth proceed and come from the hollow vein being yet in the breaſt, before it hath furniſhed the <hi>Inte<g ref="char:EOLhyphen"/>riores Jugulares,</hi> or throat-veins. The originall of this vein is of the ſtomack, liver and heart, and the beſt perceiver is in the outſide of the arm. Of the which vein, he that ſhall open it, ought to take diligent heed for laun<g ref="char:EOLhyphen"/>cing, for hard by it is a great ſinew like unto a vein, wherein the ſpirit of life runneth up and down, and is mixt with bloud, the which if it be opened, the Patient ſtan<g ref="char:EOLhyphen"/>deth in jeopardy of his life, as ſaith <hi>Galen</hi> in his book of letting bloud. Under the ſame <hi>Baſilica</hi> are alſo great ſi<g ref="char:EOLhyphen"/>news touching the foreſaid vein. Therefore ſaith <hi>Rhaſis</hi> in his 28. book, eſchue the <hi>Baſilica</hi> as much as poſſible, without it be for great need, otherwiſe it is better to take the <hi>Median.</hi>
+            </p>
+            <p>
+               <hi>F.</hi> The Vein that appeareth upon the top of the pulſe, is the branch or twigg of the <hi>Cephalica.</hi>
+            </p>
+            <p>
+               <hi>G.</hi> The ſecond vein that lightly appeareth about the middlemoſt finger, and is commonly called <hi>Funis Bra<g ref="char:EOLhyphen"/>chii,</hi> is alſo a branch or twigg of the <hi>Cephalica.</hi>
+            </p>
+            <p>
+               <hi>H.</hi> The third Vein of the hand, the which appeareth about the little finger, and is commonly called of the Phyſitians or Chyrurgeans, <hi>Salvatella,</hi> or <hi>Vena Titilla<g ref="char:EOLhyphen"/>ris,</hi> or <hi>Aſcelaris,</hi> is alſo a branch of the <hi>Baſilica.</hi> The which veins of the hand, as alſo other outward veins are of ſmall value or profit to be let bloud or opened, be<g ref="char:EOLhyphen"/>cauſe they never yield much bloud: and theſe muſt be opened as thoſe of the feet, namely in warm water, to cauſe the veins to ſwell above the ſinews.</p>
+            <p>
+               <hi>I.</hi> The vein of the inner ankle of the foot, the which appeareth more perfectly than the other, is commonly called <hi>Saphena,</hi> and cometh (as doth alſo the <hi>Sciatica</hi>) from the great hollowneſs that is under the knee.</p>
+            <p>
+               <hi>K.</hi> The other Vein that is on the outſide of the foot, is called <hi>Sciatica,</hi> and cometh likewiſe of the great hol<g ref="char:EOLhyphen"/>lowneſs under the knee. And the letting bloud of theſe two veins, is good for all manner of ſwellings and apo<g ref="char:EOLhyphen"/>ſtems of the privy members. The which veins of the feet are jeapardous for deep launcing, and eſpecially the <hi>Sci<g ref="char:EOLhyphen"/>atica,</hi> which is more dangerous to be touched than the <hi>Saphena.</hi> For if ye open the <hi>Sciatica</hi> and launch it deep for fear of failing, becauſe they appear ſo ſmall, ye ſhall hardly eſcape, but that ye ſhall touch ſome ſinew adjoy<g ref="char:EOLhyphen"/>ning to the ſame veins, whereof might come great pain and other evil accidents: as we have ſeen otherwhiles, that for ignorance of the Barbers and Chyrurgians, the Patient did fall into divers griefs of the ſinews or the cramp. This and ſuch like griefs therefore are the cauſes, why it is needfull to have the hands and feet in warm wa<g ref="char:EOLhyphen"/>ter, when they ſhall be lanced, to cauſe them to ſwell and appear the better: for they be little of themſelves, and in giving them a cut with the Launcer, ye muſt alwaies be<g ref="char:EOLhyphen"/>ware of the ſinew. Alſo the <hi>Sciatica</hi> muſt be launced as the <hi>Saphena,</hi> namely, a little overthwart, ſeeing they ap<g ref="char:EOLhyphen"/>pear enough. And generally every vein that is in a place full of ſinews, or between ſinews, muſt be opened along the vein, and that for two reaſons. The firſt is, to eſchew the ſinews in what place ſoever they be. The Second is, that the vein that is cut or blemiſhed along the vein, is not ſo dangerous for the cramp, or other evil accidents (as ſaith <hi>Galen</hi> in his fift Book of <hi>Methodus Therapeu<g ref="char:EOLhyphen"/>tice</hi>) as when it is launced along a little overthwart.</p>
+            <p>
+               <hi>Behold (Gentle Reader) theſe are the Veins that, are commonly inured to be cut. There be many other Veins that may be cut for divers griefs; but becauſe they are little in uſe, and</hi> Galen <hi>and other antient Greeks have made no mention of them, let this ſuffice.</hi>
+            </p>
+            <pb facs="tcp:184829:4"/>
+            <pb facs="tcp:184829:5"/>
+            <figure>
+               <figDesc>anatomical diagram</figDesc>
+            </figure>
+            <pb facs="tcp:184829:6"/>
+            <figure>
+               <figDesc>anatomical diagram</figDesc>
+            </figure>
+            <pb facs="tcp:184829:7"/>
+            <figure>
+               <figDesc>anatomical diagram</figDesc>
+            </figure>
+            <pb facs="tcp:184829:8"/>
+            <figure>
+               <figDesc>anatomical diagram</figDesc>
+            </figure>
+         </div>
+      </body>
+   </text>
+</TEI>
